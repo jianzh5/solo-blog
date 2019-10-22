@@ -1,16 +1,21 @@
-<p align="center"><img alt="jianzh5 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-jianzh5 的个人博客
+<p align="center"><img alt="JAVA日知录" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+JAVA日知录
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="jianzh5 的个人博客" target="_blank" href="https://github.com/jianzh5/solo-blog"><img src="https://img.shields.io/github/last-commit/jianzh5/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">分享开发过程中的点点滴滴~</h4>
+<p align="center"><a title="JAVA日知录" target="_blank" href="https://github.com/jianzh5/solo-blog"><img src="https://img.shields.io/github/last-commit/jianzh5/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/jianzh5/solo-blog"><img src="https://img.shields.io/github/repo-size/jianzh5/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/jianzh5/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [世界，你好！](http://www.javadaily.cn/hello-solo)
+* [我在 GitHub 上的开源项目](http://www.javadaily.cn/my-github-repos)
+* [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
+* [Springboot2.x + ShardingSphere 实现分库分表](http://www.javadaily.cn/articles/2019/10/21/1571652430697.html)
+* [浅谈Spring的事务隔离级别与传播性](http://www.javadaily.cn/articles/2019/10/21/1571651584582.html)
+* [MySQL InnoDB如何保证事务特性](http://www.javadaily.cn/articles/2019/10/21/1571650976267.html)
+* [数据库设计方法论 - 继承](http://www.javadaily.cn/articles/2019/10/21/1571650098965.html)
 
 
 
