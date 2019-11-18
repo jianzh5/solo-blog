@@ -10,7 +10,8 @@ JAVA日知录
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.javadaily.cn/my-github-repos)
+* [数据库优化 - SQL优化](http://www.javadaily.cn/articles/2019/11/18/1574040473037.html)
+* [数据库优化 - 实例优化](http://www.javadaily.cn/articles/2019/11/18/1574040329451.html)
 * [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
 * [Springboot2.x + ShardingSphere 实现分库分表](http://www.javadaily.cn/articles/2019/10/21/1571652430697.html)
 * [浅谈Spring的事务隔离级别与传播性](http://www.javadaily.cn/articles/2019/10/21/1571651584582.html)
