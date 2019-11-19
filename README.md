@@ -10,6 +10,10 @@ JAVA日知录
 
 ### 最新
 
+* [CRUD很无聊？一起学设计模式吧！--策略模式](http://www.javadaily.cn/articles/2019/11/18/1574086426548.html)
+* [CRUD很无聊？一起学设计模式吧！--模板模式](http://www.javadaily.cn/articles/2019/11/18/1574085149306.html)
+* [Springboot + Mysql8实现读写分离](http://www.javadaily.cn/articles/2019/11/18/1574069823051.html)
+* [2019你应该读的这些书（豆瓣高分8.0+）](http://www.javadaily.cn/articles/2019/11/18/1574069461387.html)
 * [数据库优化 - SQL优化](http://www.javadaily.cn/articles/2019/11/18/1574040473037.html)
 * [数据库优化 - 实例优化](http://www.javadaily.cn/articles/2019/11/18/1574040329451.html)
 * [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
