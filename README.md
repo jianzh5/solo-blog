@@ -10,6 +10,11 @@ JAVA日知录
 
 ### 最新
 
+* [使用Prometheus监控SpringBoot应用](http://www.javadaily.cn/articles/2019/11/20/1574211172794.html)
+* [记一次对达梦数据库的优化过程](http://www.javadaily.cn/articles/2019/11/19/1574159836173.html)
+* [基于elasticsearch的自定义业务告警的设计思路](http://www.javadaily.cn/articles/2019/11/19/1574136840924.html)
+* [构建三维一体立体化监控-看这一篇就行了](http://www.javadaily.cn/articles/2019/11/19/1574133171518.html)
+* [数据库高可用架构了解一下](http://www.javadaily.cn/articles/2019/11/19/1574131659417.html)
 * [CRUD很无聊？一起学设计模式吧！--策略模式](http://www.javadaily.cn/articles/2019/11/18/1574086426548.html)
 * [CRUD很无聊？一起学设计模式吧！--模板模式](http://www.javadaily.cn/articles/2019/11/18/1574085149306.html)
 * [Springboot + Mysql8实现读写分离](http://www.javadaily.cn/articles/2019/11/18/1574069823051.html)
