@@ -10,6 +10,7 @@ JAVA日知录
 
 ### 最新
 
+* [腾讯Techo开发者大会PPT分享](http://www.javadaily.cn/articles/2019/11/20/1574238411928.html)
 * [使用Prometheus监控SpringBoot应用](http://www.javadaily.cn/articles/2019/11/20/1574211172794.html)
 * [记一次对达梦数据库的优化过程](http://www.javadaily.cn/articles/2019/11/19/1574159836173.html)
 * [基于elasticsearch的自定义业务告警的设计思路](http://www.javadaily.cn/articles/2019/11/19/1574136840924.html)
