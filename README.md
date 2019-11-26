@@ -10,6 +10,13 @@ JAVA日知录
 
 ### 最新
 
+* [基于SkyWalking的分布式跟踪系统 - 异常告警](http://www.javadaily.cn/articles/2019/11/26/1574729586468.html)
+* [基于SkyWalking的分布式跟踪系统 - 微服务监控](http://www.javadaily.cn/articles/2019/11/26/1574729364345.html)
+* [基于SkyWalking的分布式跟踪系统 - 环境搭建](http://www.javadaily.cn/articles/2019/11/26/1574728979484.html)
+* [基于Prometheus和Grafana的监控平台 - 运维告警](http://www.javadaily.cn/articles/2019/11/25/1574661711560.html)
+* [基于Prometheus和Grafana的监控平台 - 环境搭建](http://www.javadaily.cn/articles/2019/11/25/1574661310149.html)
+* [SpringBoot2.1.9+dubbo2.7.3+Nacos1.1.4构建你的微服务体系](http://www.javadaily.cn/articles/2019/11/25/1574660748269.html)
+* [Docker基础与实战，看这一篇就够了](http://www.javadaily.cn/articles/2019/11/25/1574648243978.html)
 * [腾讯Techo开发者大会PPT分享](http://www.javadaily.cn/articles/2019/11/20/1574238411928.html)
 * [使用Prometheus监控SpringBoot应用](http://www.javadaily.cn/articles/2019/11/20/1574211172794.html)
 * [记一次对达梦数据库的优化过程](http://www.javadaily.cn/articles/2019/11/19/1574159836173.html)
@@ -23,10 +30,13 @@ JAVA日知录
 * [数据库优化 - SQL优化](http://www.javadaily.cn/articles/2019/11/18/1574040473037.html)
 * [数据库优化 - 实例优化](http://www.javadaily.cn/articles/2019/11/18/1574040329451.html)
 * [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
-* [Springboot2.x + ShardingSphere 实现分库分表](http://www.javadaily.cn/articles/2019/10/21/1571652430697.html)
+
+### 热门
+
 * [浅谈Spring的事务隔离级别与传播性](http://www.javadaily.cn/articles/2019/10/21/1571651584582.html)
 * [MySQL InnoDB如何保证事务特性](http://www.javadaily.cn/articles/2019/10/21/1571650976267.html)
 * [数据库设计方法论 - 继承](http://www.javadaily.cn/articles/2019/10/21/1571650098965.html)
+* [Springboot2.x + ShardingSphere 实现分库分表](http://www.javadaily.cn/articles/2019/10/21/1571652430697.html)
 
 
 
