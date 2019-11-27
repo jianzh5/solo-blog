@@ -10,6 +10,7 @@ JAVA日知录
 
 ### 最新
 
+* [DockerFile 设置环境变量](http://www.javadaily.cn/articles/2019/11/26/1574778839208.html)
 * [基于SkyWalking的分布式跟踪系统 - 异常告警](http://www.javadaily.cn/articles/2019/11/26/1574729586468.html)
 * [基于SkyWalking的分布式跟踪系统 - 微服务监控](http://www.javadaily.cn/articles/2019/11/26/1574729364345.html)
 * [基于SkyWalking的分布式跟踪系统 - 环境搭建](http://www.javadaily.cn/articles/2019/11/26/1574728979484.html)
@@ -29,12 +30,12 @@ JAVA日知录
 * [2019你应该读的这些书（豆瓣高分8.0+）](http://www.javadaily.cn/articles/2019/11/18/1574069461387.html)
 * [数据库优化 - SQL优化](http://www.javadaily.cn/articles/2019/11/18/1574040473037.html)
 * [数据库优化 - 实例优化](http://www.javadaily.cn/articles/2019/11/18/1574040329451.html)
-* [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
 
 ### 热门
 
 * [浅谈Spring的事务隔离级别与传播性](http://www.javadaily.cn/articles/2019/10/21/1571651584582.html)
 * [MySQL InnoDB如何保证事务特性](http://www.javadaily.cn/articles/2019/10/21/1571650976267.html)
+* [使用Prometheus监控MySQL](http://www.javadaily.cn/articles/2019/10/21/1571656309793.html)
 * [数据库设计方法论 - 继承](http://www.javadaily.cn/articles/2019/10/21/1571650098965.html)
 * [Springboot2.x + ShardingSphere 实现分库分表](http://www.javadaily.cn/articles/2019/10/21/1571652430697.html)
 
